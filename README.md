@@ -7,7 +7,7 @@ I have experience with JavaScript, React, HTML, CSS, Java, Spring Boot, and MySQ
 
 ## My Resume
 
-[View PDF](https://lsmith1580.github.io/lsmith1580.github.io/docs/MyResume.pdf)
+<a href="/docs/MyResume.pdf">
 
 ## Project Work
 Scenic Spokes is a web application designed for motorcyclists seeking more than just the fastest route. It provides riders with scenic, customizable routes to destinations like the Sturgis Motorcycle Rally, prioritizing beautiful landscapes and enjoyable riding experiences over traditional navigation. Built with a clean, user-friendly interface, Scenic Spokes allows users to plan trips, explore route options, and make the journey as rewarding as the destination.
