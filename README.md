@@ -1,1 +1,1 @@
-# lsmith1580.github.io
+# Lindsey Smith's Professional Portfolio
