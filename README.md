@@ -14,4 +14,4 @@ Scenic Spokes is a web application designed for motorcyclists seeking more than 
 
 <a href="https://scenic-spokes.netlify.app/">Visit Scenic Spokes</a>
 
-![Scenic Spokes Image] (https://github.com/lsmith1580/lsmith1580.github.io/issues/1#issue-3209203263)
+![Scenic Spokes Image] (<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/53e773fc-69dd-4fb4-a34a-2feb67aa41ef" />)
